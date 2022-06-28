@@ -1,7 +1,4 @@
-
-<details>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal-trilio&show_icons=true&theme=dark&locale=en" alt="kaushal-trilio" /></p>
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal-trilio&show_icons=true&theme=dark&locale=en" alt="kaushal-trilio" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
