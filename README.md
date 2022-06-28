@@ -1,4 +1,4 @@
-<div>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaushal-trilio&show_icons=true&theme=dark&locale=en" alt="kaushal-trilio" /></div>
+<div>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaushal-trilio&show_icons=true&theme=dark&locale=en" alt="kaushal-trilio" /></div> \
 <br />
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-trilio&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaushal-trilio" /></div>
 <br />
