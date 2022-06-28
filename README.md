@@ -1,10 +1,10 @@
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaushal-trilio&show_icons=true&theme=dark&locale=en" alt="kaushal-trilio" /></p>
+<div>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaushal-trilio&show_icons=true&theme=dark&locale=en" alt="kaushal-trilio" /></div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-trilio&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaushal-trilio" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-trilio&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaushal-trilio" /></div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-trilio&theme=dark" alt="kaushal-trilio" /></p>
+<div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-trilio&theme=dark" alt="kaushal-trilio" /></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-trilio&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-trilio" /> </p>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-trilio&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-trilio" /> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
