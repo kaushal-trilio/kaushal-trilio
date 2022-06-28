@@ -1,6 +1,5 @@
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaushal-trilio&show_icons=true&theme=dark&locale=en" alt="kaushal-trilio" /></p>
-##
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-trilio&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaushal-trilio" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kaushal-trilio&show_icons=true&theme=dark&locale=en" alt="kaushal-trilio" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-trilio&show_icons=true&theme=dark&locale=en&layout=compact" alt="kaushal-trilio" /></p>
 <br />
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-trilio&theme=dark" alt="kaushal-trilio" /></p>
 <br />
